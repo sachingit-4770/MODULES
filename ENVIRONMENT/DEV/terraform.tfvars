@@ -1,7 +1,7 @@
 rgvar = {
   RG01 = {
     rgname = {
-      name = "baba"
+      name = "madu"
     }
     rglocation = {
       location = "eastus"
